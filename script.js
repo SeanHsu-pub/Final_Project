@@ -1,7 +1,7 @@
 
 const projects = [
   {
-    "title": "初學網頁設計之心得",
+    "title": "初學網頁設計的心得",
     "description": "雖然我沒有完全的認真學習，一方面在忙工作的事情，幾乎每次都遲到，但是我覺得我學到超級多東西，希望下學期的課程，我能空出更多時間學習",
     "date": "2025/12/03",
     "url": "https://seanhsu-pub.github.io/Final_Project/"
